@@ -1,5 +1,5 @@
 
- [![MasterHead](https://www.turhost.com/blog/wp-content/uploads/2020/04/indeed-1.jpg)
+ [![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Barış Ahmet Kandemir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
