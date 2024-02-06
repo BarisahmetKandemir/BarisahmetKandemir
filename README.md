@@ -1,5 +1,5 @@
 
- [![MasterHead]()
+ [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9k8uz-EduMt3Gl3nll2Ex2tz3n054tYEMg&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Barış Ahmet Kandemir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
@@ -9,6 +9,10 @@
 - 🔭 I’m currently working on **React**
 
 - 💬 Ask me about **Blockhain**
+  
+- 🗼2024 Golas: Finishing my software course and developing a successful project
+
+- ⚡ Hobies: I love play basgetball and chess.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
