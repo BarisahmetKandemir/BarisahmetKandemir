@@ -1,5 +1,4 @@
 
- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9k8uz-EduMt3Gl3nll2Ex2tz3n054tYEMg&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Barış Ahmet Kandemir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
