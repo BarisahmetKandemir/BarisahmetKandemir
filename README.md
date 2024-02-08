@@ -45,13 +45,9 @@
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 </div>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<h2>Sneake Game🐍</h2>
-
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
