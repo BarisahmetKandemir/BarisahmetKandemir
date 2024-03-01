@@ -3,11 +3,6 @@
   <h2 align="center">I am Frontend Developer👨‍💻</h2>
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379B680&title_bg=%23232447&icon=bitrise.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
-
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 
 
 <div id="header">
@@ -46,17 +41,7 @@
   </a>
 </div>
 
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
-
-
-<!--![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)-->
-
-
-
- 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 
